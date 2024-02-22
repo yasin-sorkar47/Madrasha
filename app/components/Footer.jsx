@@ -3,7 +3,7 @@ import logo from "../../public/logo.png";
 
 export default function Footer() {
   return (
-    <footer className="bg-blue-500 pt-4 pb-8 sm:pb-4">
+    <footer className="bg-[#2B3990] pt-4 pb-8 sm:pb-4">
       <div className="container mx-auto w-full px-4 flex flex-col justify-center items-center sm:flex-row sm:justify-between">
         <div className="sm:w-[100px] md:w-[120px]">
           <Image src={logo} alt="image" />

@@ -4,7 +4,7 @@ import logoLock from "../../../public/undraw_login_re_4vu2.svg";
 export default function ContactSection() {
   return (
     <section className="bg-blue-100 h-full sm:h-screen sm:flex sm:items-center">
-      <div className="container mx-auto w-3/4 flex flex-col sm:flex-row sm:text-center">
+      <div className="container mb-5 mx-auto w-3/4 flex flex-col sm:flex-row sm:text-center">
         <div className="order-2 bg-gray-100 p-8 sm:order-2 sm:w-1/2">
           <h3 class="font-bold mb-1 text-xl">Say Hello</h3>
           <form action="">

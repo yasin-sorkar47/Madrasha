@@ -26,7 +26,7 @@ export default function Navigation() {
         </svg>
       </button>
       <ul
-        className={`absolute bg-blue-500 w-full top-20 right-0 text-center p-4 ${
+        className={`absolute bg-[#2B3990] w-full top-20 right-0 text-center p-4 ${
           show && "hidden"
         } sm:top-0 sm:relative sm:flex sm:p-0 z-50`}
       >
